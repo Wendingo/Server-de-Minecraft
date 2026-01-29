@@ -362,3 +362,90 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [18:15:22] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 25565
 [18:15:22] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
 [18:15:26] [pool-20-thread-1/INFO]: [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 51, threads = 4, took 8.87s)
+[18:16:13] [User Authenticator #0/INFO]: UUID of player The_GameplayerZ is 749f236f-1860-41f1-aece-ee7b00d03f77
+[18:16:13] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, SuperVanish, Maintenance]
+[18:16:23] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:16:23] [Server thread/INFO]: The_GameplayerZ joined the game
+[18:16:23] [Server thread/INFO]: The_GameplayerZ[/127.131.212.220:37517] logged in with entity id 1 at ([world]22.799950690107284, 123.0, 10.479348602604865)
+[18:16:23] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user The_GameplayerZ has successfully logged in.
+[18:16:23] [Server thread/INFO]: [voicechat] Received secret request of The_GameplayerZ (20)
+[18:16:23] [Server thread/INFO]: [voicechat] Sent secret to The_GameplayerZ
+[18:20:57] [Server thread/INFO]: The_GameplayerZ issued server command: /reload
+[18:20:57] [Server thread/INFO]: [The_GameplayerZ: Reloading!]
+[18:20:58] [Server thread/INFO]: Loaded 1470 recipes
+[18:20:58] [Server thread/INFO]: Loaded 1584 advancements
+[18:21:09] [Async Chat Thread - #2/INFO]: <The_GameplayerZ> a
+[18:23:32] [Server thread/INFO]: The_GameplayerZ issued server command: /reload
+[18:23:32] [Server thread/INFO]: [The_GameplayerZ: Reloading!]
+[18:23:32] [Server thread/INFO]: Loaded 1470 recipes
+[18:23:32] [Server thread/INFO]: Loaded 1584 advancements
+[18:23:34] [Async Chat Thread - #3/INFO]: <The_GameplayerZ> a
+[18:23:50] [Server thread/INFO]: The_GameplayerZ issued server command: /time set 0
+[18:23:50] [Server thread/INFO]: [The_GameplayerZ: Set the time to 0]
+[18:26:15] [Server thread/INFO]: Stopping the server
+[18:26:15] [Server thread/INFO]: Stopping server
+[18:26:15] [Server thread/INFO]: [TAB] Disabling TAB v5.5.0
+[18:26:15] [Server thread/INFO]: [TAB] Disabled in 1ms
+[18:26:15] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.21
+[18:26:15] [Server thread/INFO]: [AdvancedServerList] Disabling AdvancedServerList v5.7.2
+[18:26:15] [Server thread/INFO]: [AdvancedServerList] [-] Saving playercache.json file...
+[18:26:15] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully saved playercache.json file.
+[18:26:15] [Server thread/INFO]: [AdvancedServerList] [-] Disabling Update Checker...
+[18:26:15] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList disabled!
+[18:26:15] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
+[18:26:15] [Server thread/INFO]: [nAntiBot] Disabling nAntiBot v2.0.5
+[18:26:15] [Server thread/INFO]: [nAntiBot] Successful plugin core shutdown (took 0.00s)
+[18:26:15] [Server thread/INFO]: [nAntiBot] Disconnecting from remote server...
+[18:26:17] [Server thread/INFO]: [nLogin] Disabling nLogin v2.0.11
+[18:26:17] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[18:26:17] [Server thread/INFO]: [SmartBackpacks] Disabling SmartBackpacks v0.1
+[18:26:17] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[18:26:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.3
+[18:26:17] [Server thread/INFO]: [voicechat_interaction] Disabling voicechat_interaction v1.0.3
+[18:26:17] [Server thread/INFO]: [voicechat_interaction] Successfully unregistered voicechat_interaction event bridge
+[18:26:17] [Server thread/INFO]: [ClickShop] Disabling ClickShop v1.0.2
+[18:26:17] [Server thread/INFO]: [ClickShop] ClickShop deactivated.
+[18:26:17] [Server thread/INFO]: [PurpurExtras] Disabling PurpurExtras v1.37.0
+[18:26:17] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.30.15
+[18:26:17] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.3.0
+[18:26:17] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.7.2-SNAPSHOT
+[18:26:17] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.11
+[18:26:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.17
+[18:26:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[18:26:17] [Server thread/INFO]: [LuckPerms] Closing storage...
+[18:26:17] [Server thread/INFO]: [LuckPerms] Goodbye!
+[18:26:17] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.7.2-SNAPSHOT
+[18:26:17] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[18:26:17] [Server thread/INFO]: Saving players
+[18:26:17] [Server thread/INFO]: The_GameplayerZ lost connection: Server closed
+[18:26:17] [Server thread/INFO]: The_GameplayerZ left the game
+[18:26:17] [Server thread/INFO]: Saving worlds
+[18:26:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:26:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:26:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:26:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Saved 1108 block chunks, 195 entity chunks, 4 poi chunks in world 'world' in 0.93s
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[18:26:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[18:26:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[18:26:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[18:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:26:18] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[18:26:18] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[18:26:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[18:26:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
