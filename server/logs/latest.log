@@ -868,3 +868,90 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NullPointe
 [22:50:13] [Server thread/INFO]: The_GameplayerZ lost connection: Disconnected
 [22:50:13] [Server thread/INFO]: [voicechat] Disconnecting client The_GameplayerZ
 [22:50:13] [Server thread/INFO]: The_GameplayerZ left the game
+[22:52:35] [Server thread/INFO]: Stopping the server
+[22:52:35] [Server thread/INFO]: Stopping server
+[22:52:35] [Server thread/INFO]: [SmartMoving] Disabling SmartMoving vEOL
+[22:52:35] [Server thread/INFO]: §x§9§b§a§8§3§2[§x§9§b§a§8§3§a §x§9§b§a§8§4§2S§x§9§b§a§8§4§am§x§9§b§a§8§5§2a§x§9§b§a§8§5§ar§x§9§b§a§8§6§2t§x§9§b§a§8§6§aM§x§9§b§a§8§7§2o§x§9§b§a§8§7§av§x§9§b§a§8§8§2i§x§9§b§a§8§8§an§x§9§b§a§8§9§2g§x§9§b§a§8§9§a §x§9§b§a§8§a§2] §cDisable§f!
+[22:52:35] [Server thread/INFO]: [TAB] Disabling TAB v5.5.0
+[22:52:35] [Server thread/INFO]: [TAB] Disabled in 0ms
+[22:52:35] [Server thread/INFO]: [emotecraft] Disabling emotecraft v3.2.0-b.build.142
+[22:52:35] [Server thread/WARN]: [Emotecraft] Emotecraft does not support disabling by PlugMan and similar plugins
+[22:52:35] [Server thread/INFO]: [ItemsAdder] Disabling ItemsAdder v4.0.15
+[22:52:35] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.21
+[22:52:35] [Server thread/INFO]: [AdvancedServerList] Disabling AdvancedServerList v5.7.2
+[22:52:35] [Server thread/INFO]: [AdvancedServerList] [-] Saving playercache.json file...
+[22:52:35] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully saved playercache.json file.
+[22:52:35] [Server thread/INFO]: [AdvancedServerList] [-] Disabling Update Checker...
+[22:52:35] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList disabled!
+[22:52:35] [Server thread/INFO]: [nAntiBot] Disabling nAntiBot v2.0.5
+[22:52:35] [Server thread/INFO]: [nAntiBot] Successful plugin core shutdown (took 0.00s)
+[22:52:35] [Server thread/INFO]: [nAntiBot] Disconnecting from remote server...
+[22:52:37] [Server thread/INFO]: [nLogin] Disabling nLogin v2.0.11
+[22:52:37] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[22:52:37] [Server thread/INFO]: [SmartBackpacks] Disabling SmartBackpacks v0.1
+[22:52:37] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[22:52:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.3
+[22:52:37] [Server thread/INFO]: [voicechat_interaction] Disabling voicechat_interaction v1.0.3
+[22:52:37] [Server thread/INFO]: [voicechat_interaction] Successfully unregistered voicechat_interaction event bridge
+[22:52:37] [Server thread/INFO]: [ClickShop] Disabling ClickShop v1.0.2
+[22:52:37] [Server thread/INFO]: [ClickShop] ClickShop deactivated.
+[22:52:37] [Server thread/INFO]: [PurpurExtras] Disabling PurpurExtras v1.37.0
+[22:52:37] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.30.15
+[22:52:37] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
+[22:52:37] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.3.0
+[22:52:37] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.7.2-SNAPSHOT
+[22:52:37] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.11
+[22:52:37] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.11.1-de409cac
+[22:52:37] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[22:52:37] [Server thread/INFO]: [MythicMobs] - 
+[22:52:37] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[22:52:37] [Server thread/INFO]: [MythicMobs] - 
+[22:52:37] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[22:52:37] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[22:52:37] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[22:52:37] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[22:52:37] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[22:52:37] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[22:52:37] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[22:52:37] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[22:52:37] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[22:52:37] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[22:52:37] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[22:52:37] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.17
+[22:52:37] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:52:37] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:52:37] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:52:37] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[22:52:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.7.2-SNAPSHOT
+[22:52:37] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[22:52:37] [Server thread/INFO]: Saving players
+[22:52:37] [Server thread/INFO]: Saving worlds
+[22:52:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[22:52:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[22:52:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[22:52:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[22:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:52:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:52:37] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[22:52:37] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[22:52:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[22:52:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
