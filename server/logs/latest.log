@@ -1,519 +1,587 @@
-[19:41:27] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.1+8-LTS; Microsoft Microsoft-12574222) on Linux 6.8.0-1030-azure (amd64)
-[19:41:27] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21.11-2559-HEAD@33b2924 (2026-01-20T21:53:47Z) for Minecraft 1.21.11
-[19:41:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:41:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 23 plugins
-[19:41:35] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (3):
+[19:53:59] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.1+8-LTS; Microsoft Microsoft-12574222) on Linux 6.8.0-1030-azure (amd64)
+[19:53:59] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21.10-2535-HEAD@0a2dc04 (1970-01-01T00:00:00Z) for Minecraft 1.21.10
+[19:53:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:54:00] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[19:54:06] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 6487ms.
+[19:54:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/MythicMobs-5.11.1.jar'...
+[19:54:06] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/InvSee++.jar'...
+[19:54:06] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/voicechat-interaction-1.0.3.jar'...
+[19:54:06] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/ClickShop-1.0.2.jar'...
+[19:54:06] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/voicechat-interaction-1.0.3.jar' in 223ms.
+[19:54:06] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[19:54:06] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ClickShop-1.0.2.jar' in 275ms.
+[19:54:06] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/voicechat-bukkit-2.6.11.jar'...
+[19:54:07] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/InvSee++.jar' in 761ms.
+[19:54:07] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/SmartBackpacks-bukkit-0.1_2.jar'...
+[19:54:07] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/voicechat-bukkit-2.6.11.jar' in 572ms.
+[19:54:07] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/nLogin.jar'...
+[19:54:07] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/nLogin.jar' in 445ms.
+[19:54:07] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/nAntiBot.jar'...
+[19:54:07] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/nAntiBot.jar' in 163ms.
+[19:54:07] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/SuperVanish-6.2.21.jar'...
+[19:54:08] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SuperVanish-6.2.21.jar' in 111ms.
+[19:54:08] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemsAdder_4.0.15.jar'...
+[19:54:09] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2804ms.
+[19:54:09] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/TAB v5.5.0.jar'...
+[19:54:10] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemsAdder_4.0.15.jar' in 1932ms.
+[19:54:10] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/SmartMoving-EOL-all.jar'...
+[19:54:10] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SmartBackpacks-bukkit-0.1_2.jar' in 2844ms.
+[19:54:10] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SmartMoving-EOL-all.jar' in 155ms.
+[19:54:11] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TAB v5.5.0.jar' in 1809ms.
+[19:54:13] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/MythicMobs-5.11.1.jar' in 6903ms.
+[19:54:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 23 plugins
+[19:54:13] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (3):
  - AdvancedServerList (5.7.2), PurpurExtras (1.37.0), emotecraft (3.2.0-b.build.142)
-[19:41:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (20):
+[19:54:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (20):
  - Chunky (1.4.40), ClickShop (1.0.2), InvSeePlusPlus (0.30.15), ItemsAdder (4.0.15), LuckPerms (5.5.17), Maintenance (4.3.0), ModelEngine (R4.0.9), MythicMobs (5.11.1-de409cac), ProtocolLib (5.4.0), SkinsRestorer (15.9.3), SmartBackpacks (0.1), SmartMoving (EOL), SuperVanish (6.2.21), TAB (5.5.0), ViaBackwards (5.7.2-SNAPSHOT), ViaVersion (5.7.2-SNAPSHOT), nAntiBot (2.0.5), nLogin (2.0.11), voicechat (2.6.11), voicechat_interaction (1.0.3)
-[19:41:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[19:41:42] [ServerMain/INFO]: Loaded 1470 recipes
-[19:41:42] [ServerMain/INFO]: Loaded 1584 advancements
-[19:41:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[19:41:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 375.1ms
-[19:41:42] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[19:41:42] [Server thread/INFO]: Loading properties
-[19:41:42] [Server thread/INFO]: This server is running Purpur version 1.21.11-2559-HEAD@33b2924 (2026-01-20T21:53:47Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
-[19:41:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[19:41:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:41:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:41:44] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[19:41:44] [Server thread/INFO]: Default game type: SURVIVAL
-[19:41:44] [Server thread/INFO]: Generating keypair
-[19:41:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:41:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:41:44] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[19:41:44] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loading 3 libraries... please wait
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
-[19:41:45] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
-[19:41:46] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.7.2-SNAPSHOT
-[19:41:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.7.2-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[19:41:46] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:41:47] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:41:47] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[19:41:47] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[19:41:47] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
-[19:41:47] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.11) has not yet been tested! Proceed with caution.
-[19:41:48] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.17
-[19:41:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[19:41:49] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.11.1-de409cac
-[19:41:49] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
-[19:41:49] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
-[19:41:49] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.6.11
-[19:41:49] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.7.2-SNAPSHOT
-[19:41:49] [Server thread/INFO]: [Maintenance] Loading server plugin Maintenance v4.3.0
-[19:41:49] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR4.0.9
-[19:41:49] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.30.15
-[19:41:49] [Server thread/INFO]: [PurpurExtras] Loading server plugin PurpurExtras v1.37.0
-[19:41:49] [Server thread/INFO]: [ClickShop] Loading server plugin ClickShop v1.0.2
-[19:41:49] [Server thread/INFO]: [voicechat_interaction] Loading server plugin voicechat_interaction v1.0.3
-[19:41:49] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.3
-[19:41:49] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[19:41:49] [Server thread/INFO]: [SmartBackpacks] Loading server plugin SmartBackpacks v0.1
-[19:41:49] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v2.0.11
-[19:41:50] [Server thread/INFO]: [nAntiBot] Loading server plugin nAntiBot v2.0.5
-[19:41:51] [Server thread/INFO]: [AdvancedServerList] Loading server plugin AdvancedServerList v5.7.2
-[19:41:51] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.21
-[19:41:51] [Server thread/INFO]: [ItemsAdder] Loading server plugin ItemsAdder v4.0.15
-[19:41:51] [Server thread/INFO]: [ItemsAdder] Loading library FastNbt-jar (remapped)...
-[19:41:52] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/beer/devs/FastNbt-jar/1.4.15/FastNbt-jar-1.4.15.jar
-[19:41:53] [Server thread/INFO]: [ItemsAdder] Downloaded library https://repo.alessiodp.com/releases/com/alessiodp/libby/maven/resolver/libby-maven-resolver/1.0.1/libby-maven-resolver-1.0.1.jar
-[19:41:53] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping library '/workspaces/Server-de-Minecraft/server/plugins/ItemsAdder/lib/beer/devs/FastNbt-jar/1.4.15/FastNbt-jar-1.4.15-modified.jar'...
-[19:41:54] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping library '/workspaces/Server-de-Minecraft/server/plugins/ItemsAdder/lib/beer/devs/FastNbt-jar/1.4.15/FastNbt-jar-1.4.15-modified.jar' in 1431ms.
-[19:41:54] [Server thread/INFO]: [ItemsAdder] Loading library httpmime...
-[19:41:54] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpmime/4.5.14/httpmime-4.5.14.jar
-[19:41:55] [Server thread/INFO]: [ItemsAdder] Loading library httpclient
-[19:41:55] [Server thread/INFO]: [ItemsAdder] Loading library httpcore
-[19:41:55] [Server thread/INFO]: [ItemsAdder] Loading library commons-logging
-[19:41:55] [Server thread/INFO]: [ItemsAdder] Loading library commons-codec
-[19:41:55] [Server thread/INFO]: [ItemsAdder] Loading library commons-math3...
-[19:41:55] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar
-[19:41:56] [Server thread/INFO]: [ItemsAdder] Loading library speedy-math...
-[19:41:56] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/streamsupport/speedy-math/1.0.0/speedy-math-1.0.0.jar
-[19:41:56] [Server thread/INFO]: [ItemsAdder] Loading library jansi...
-[19:41:56] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/org/fusesource/jansi/jansi/2.4.2/jansi-2.4.2.jar
-[19:41:56] [Server thread/INFO]: [ItemsAdder] Loading library fastjson...
-[19:41:56] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson/2.0.43/fastjson-2.0.43.jar
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library fastjson2-extension
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library fastjson2
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library json-path...
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/com/jayway/jsonpath/json-path/2.8.0/json-path-2.8.0.jar
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library json-smart
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library accessors-smart
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library asm
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library slf4j-api
-[19:41:58] [Server thread/INFO]: [ItemsAdder] Loading library armor-equip-event...
-[19:41:59] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/com/jeff-media/armor-equip-event/1.0.3/armor-equip-event-1.0.3.jar
-[19:41:59] [Server thread/INFO]: [ItemsAdder] Loading library glowingentities...
-[19:41:59] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/fr/skytasul/glowingentities/1.4.7/glowingentities-1.4.7.jar
-[19:41:59] [Server thread/INFO]: [ItemsAdder] Loading library reflection-remapper
-[19:41:59] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api...
-[19:41:59] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.23.0/adventure-api-4.23.0.jar
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library annotations
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-minimessage...
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-minimessage/4.23.0/adventure-text-minimessage-4.23.0.jar
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library annotations
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson...
-[19:42:00] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.23.0/adventure-text-serializer-gson-4.23.0.jar
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library option
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library jspecify
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library gson
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library auto-service-annotations
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-commons
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library annotations
-[19:42:01] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson-legacy-impl...
-[19:42:02] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.23.0/adventure-text-serializer-gson-legacy-impl-4.23.0.jar
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library option
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library jspecify
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library gson
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library auto-service-annotations
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-commons
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library annotations
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json-legacy-impl
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-nbt
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-bukkit...
-[19:42:03] [Server thread/INFO]: [ItemsAdder] Downloaded library https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-bukkit/4.4.0/adventure-platform-bukkit-4.4.0.jar
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-api
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-bungeecord
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-legacy
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-nbt
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library annotations
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library option
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library jspecify
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library auto-service-annotations
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-commons
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson-legacy-impl
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json-legacy-impl
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-facet
-[19:42:05] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-viaversion
-[19:42:05] [Server thread/INFO]: [emotecraft] Loading server plugin emotecraft v3.2.0-b.build.142
-[19:42:05] [Server thread/INFO]: [Emotecraft] Loading Emotecraft as a paper plugin...
-[19:42:05] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.5.0
-[19:42:05] [Server thread/INFO]: [SmartMoving] Loading server plugin SmartMoving vEOL
-[19:42:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:42:05] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
-[19:42:05] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.17
-[19:42:05] [Server thread/INFO]:         __    
-[19:42:05] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.17
-[19:42:05] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
-[19:42:05] [Server thread/INFO]: 
-[19:42:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[19:42:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[19:42:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[19:42:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1469ms)
-[19:42:06] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR4.0.9
-[19:42:06] [Server thread/WARN]: [ModelEngine] [S] Unable to read the model ID cache file. If the file is missing, ignore this warning.
-[19:42:07] [Server thread/WARN]: [ModelEngine] [S] Unable to activate MineSkin skin generation: Empty API Key
-[19:42:07] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Steve
-[19:42:07] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Alex
-[19:42:07] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] Registered default skin: Alex
-[19:42:07] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] Registered default skin: Steve
-[19:42:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.3
-[19:42:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
-[19:42:09] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[19:42:09] [Server thread/INFO]: [nLogin] Enabling nLogin v2.0.11
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.3
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 989bf18
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[19:42:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[19:42:09] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.14s)
-[19:42:09] [Server thread/INFO]: [nLogin]           __             _       
-[19:42:09] [Server thread/INFO]: [nLogin]   _ __   / /  ___   __ _(_)_ __  
-[19:42:09] [Server thread/INFO]: [nLogin]  | '_ \ / /  / _ \ / _` | | '_ \ 
-[19:42:09] [Server thread/INFO]: [nLogin]  | | | / /__| (_) | (_| | | | | |
-[19:42:09] [Server thread/INFO]: [nLogin]  |_| |_\____/\___/ \__, |_|_| |_|
-[19:42:09] [Server thread/INFO]: [nLogin]                   |___/            
-[19:42:09] [Server thread/INFO]: [nLogin]  By: www.nickuc.com - V 2.0.11 DEV
-[19:42:09] [Server thread/INFO]: [nLogin]  
-[19:42:11] [Server thread/INFO]: [nAntiBot] Enabling nAntiBot v2.0.5
-[19:42:11] [Server thread/INFO]: [nAntiBot] Successful plugin core start (took 0.28s)
-[19:42:11] [Server thread/INFO]: [nAntiBot]           _         _   _   ___       _   
-[19:42:11] [Server thread/INFO]: [nAntiBot]   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
-[19:42:11] [Server thread/INFO]: [nAntiBot]  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
-[19:42:11] [Server thread/INFO]: [nAntiBot]  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
-[19:42:11] [Server thread/INFO]: [nAntiBot]  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
-[19:42:11] [Server thread/INFO]: [nAntiBot]                                          
-[19:42:11] [Server thread/INFO]: [nAntiBot]  By: www.nickuc.com - V 2.0.5
-[19:42:11] [Server thread/INFO]: [nAntiBot] 
-[19:42:12] [Folia Async Scheduler Thread #2/INFO]: [nAntiBot] Connecting to the remote server antibot.nickuc.com...
-[19:42:12] [Server thread/INFO]: Preparing level "world"
-[19:42:12] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
-[19:42:12] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
-[19:42:13] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
-[19:42:13] [Server thread/INFO]: Preparing spawn area: 100%
-[19:42:13] [Server thread/INFO]: Prepared spawn area in 1 ms
-[19:42:13] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
-[19:42:13] [Server thread/INFO]: Prepared spawn area in 1 ms
-[19:42:13] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
-[19:42:13] [Server thread/INFO]: Prepared spawn area in 0 ms
-[19:42:13] [Server thread/INFO]: Done preparing level "world" (0.625s)
-[19:42:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.7.2-SNAPSHOT
-[19:42:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.11 (774)
-[19:42:13] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: ViaVersion
-[19:42:13] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.11.1-de409cac
-[19:42:13] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.11)...
-[19:42:13] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
-[19:42:13] [Server thread/ERROR]: Error occurred while enabling MythicMobs v5.11.1-de409cac (Is it up to date?)
-java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.version.NMSVersion.toString()" because the return value of "io.lumine.mythic.bukkit.utils.version.ServerVersion.getNMS()" is null
-	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.MythicBukkit.getVolatileCodeHandler(MythicBukkit.java:314) ~[?:?]
-	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.BukkitBootstrap.lambda$initialize$0(BukkitBootstrap.java:100) ~[?:?]
-	at java.base/java.util.Map.forEach(Map.java:733) ~[?:?]
-	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.BukkitBootstrap.initialize(BukkitBootstrap.java:98) ~[?:?]
-	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.MythicBukkit.enable(MythicBukkit.java:172) ~[?:?]
-	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onEnable(LuminePlugin.java:81) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[purpur-api-1.21.11-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[purpur-api-1.21.11-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:653) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:610) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:640) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:408) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1273) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:392) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
+[19:54:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:54:19] [ServerMain/INFO]: Loaded 1461 recipes
+[19:54:19] [ServerMain/INFO]: Loaded 1574 advancements
+[19:54:19] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:54:19] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 340.5ms
+[19:54:19] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[19:54:19] [Server thread/INFO]: Loading properties
+[19:54:19] [Server thread/INFO]: This server is running Purpur version 1.21.10-2535-HEAD@0a2dc04 (1970-01-01T00:00:00Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[19:54:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:54:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:54:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:54:21] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:54:21] [Server thread/INFO]: Default game type: SURVIVAL
+[19:54:21] [Server thread/INFO]: Generating keypair
+[19:54:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:54:21] [Server thread/INFO]: Using epoll channel type
+[19:54:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:54:21] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Server-de-Minecraft/server/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loading 3 libraries... please wait
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[19:54:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/Server-de-Minecraft/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
+[19:54:22] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.7.2-SNAPSHOT
+[19:54:22] [Server thread/INFO]: [ViaVersion] ViaVersion 5.7.2-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[19:54:23] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:54:23] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:54:24] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:54:24] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:54:24] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[19:54:24] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.10) has not yet been tested! Proceed with caution.
+[19:54:25] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.17
+[19:54:25] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:54:25] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.11.1-de409cac
+[19:54:25] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[19:54:25] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[19:54:25] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.6.11
+[19:54:25] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.7.2-SNAPSHOT
+[19:54:25] [Server thread/INFO]: [Maintenance] Loading server plugin Maintenance v4.3.0
+[19:54:25] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR4.0.9
+[19:54:25] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.30.15
+[19:54:25] [Server thread/INFO]: [PurpurExtras] Loading server plugin PurpurExtras v1.37.0
+[19:54:25] [Server thread/INFO]: [ClickShop] Loading server plugin ClickShop v1.0.2
+[19:54:25] [Server thread/INFO]: [voicechat_interaction] Loading server plugin voicechat_interaction v1.0.3
+[19:54:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.3
+[19:54:25] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[19:54:25] [Server thread/INFO]: [SmartBackpacks] Loading server plugin SmartBackpacks v0.1
+[19:54:25] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v2.0.11
+[19:54:25] [Server thread/INFO]: [nAntiBot] Loading server plugin nAntiBot v2.0.5
+[19:54:25] [Server thread/INFO]: [AdvancedServerList] Loading server plugin AdvancedServerList v5.7.2
+[19:54:25] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.21
+[19:54:25] [Server thread/INFO]: [ItemsAdder] Loading server plugin ItemsAdder v4.0.15
+[19:54:25] [Server thread/INFO]: [ItemsAdder] Loading library FastNbt-jar (remapped)...
+[19:54:25] [Paper Plugin Remapper Thread - 5/INFO]: [PluginRemapper] Remapping library '/workspaces/Server-de-Minecraft/server/plugins/ItemsAdder/lib/beer/devs/FastNbt-jar/1.4.15/FastNbt-jar-1.4.15-modified.jar'...
+[19:54:26] [Paper Plugin Remapper Thread - 5/INFO]: [PluginRemapper] Done remapping library '/workspaces/Server-de-Minecraft/server/plugins/ItemsAdder/lib/beer/devs/FastNbt-jar/1.4.15/FastNbt-jar-1.4.15-modified.jar' in 141ms.
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library httpmime...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library httpclient
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library httpcore
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library commons-logging
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library commons-codec
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library commons-math3...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library speedy-math...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library jansi...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library fastjson...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library fastjson2-extension
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library fastjson2
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library json-path...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library json-smart
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library accessors-smart
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library asm
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library slf4j-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library armor-equip-event...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library glowingentities...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library reflection-remapper
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-minimessage...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library option
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library jspecify
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library gson
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library auto-service-annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-commons
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson-legacy-impl...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library option
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library jspecify
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library gson
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library auto-service-annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-commons
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json-legacy-impl
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-nbt
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-bukkit...
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-key
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-bungeecord
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-legacy
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-nbt
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-api
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library examination-string
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library option
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library jspecify
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library auto-service-annotations
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-commons
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-gson-legacy-impl
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-text-serializer-json-legacy-impl
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-facet
+[19:54:26] [Server thread/INFO]: [ItemsAdder] Loading library adventure-platform-viaversion
+[19:54:26] [Server thread/INFO]: [emotecraft] Loading server plugin emotecraft v3.2.0-b.build.142
+[19:54:26] [Server thread/ERROR]: [emotecraft] Error initializing plugin 'emotecraft-paper-for-MC1.21.11-3.2.0-b.build.142.jar' in folder 'plugins' (Is it up to date?)
+java.lang.NoClassDefFoundError: net/minecraft/resources/Identifier
+	at emotecraft-paper-for-MC1.21.11-3.2.0-b.build.142.jar/io.github.kosmx.emotes.bukkit.BukkitWrapper.onLoad(BukkitWrapper.java:32) ~[emotecraft-paper-for-MC1.21.11-3.2.0-b.build.142.jar:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:569) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:357) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1272) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
 	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:42:13] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.11.1-de409cac
-[19:42:13] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[19:42:13] [Server thread/INFO]: [MythicMobs] - 
-[19:42:13] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
-[19:42:13] [Server thread/INFO]: [MythicMobs] - 
-[19:42:13] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[19:42:13] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.mobs.MobExecutor.despawnAllMobs()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getMobManager()" is null
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.MythicBukkit.disable(MythicBukkit.java:266)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:91)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:653)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:610)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:640)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:408)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1273)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:392)
-[19:42:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[19:42:13] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[19:42:13] [Server thread/INFO]: [MythicMobs] ✗An error occurred while saving data
-[19:42:13] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.mobs.MobExecutor.saveCachedActiveMobs()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getMobManager()" is null
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.core.config.ConfigExecutor.save(ConfigExecutor.java:492)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.core.config.ConfigExecutor.unload(ConfigExecutor.java:523)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.PluginModule.close(PluginModule.java:50)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:31)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:653)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:610)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:640)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:408)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1273)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:392)
-[19:42:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[19:42:13] [Server thread/WARN]: io.lumine.mythic.bukkit.utils.terminable.composite.CompositeClosingException: Exception(s) occurred whilst closing: [java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropExecutor.unload()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getDropManager()" is null]
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:38)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:653)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:610)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:640)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:408)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1273)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:392)
-[19:42:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[19:42:13] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropExecutor.unload()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getDropManager()" is null
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.core.config.ConfigExecutor.unload(ConfigExecutor.java:526)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.PluginModule.close(PluginModule.java:50)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:31)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
-[19:42:13] [Server thread/WARN]: 	at MythicMobs-5.11.1.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[19:42:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:653)
-[19:42:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:610)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:640)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:408)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1273)
-[19:42:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:392)
-[19:42:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[19:42:13] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.11
-[19:42:13] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.11-R0.1
-[19:42:13] [Server thread/INFO]: [voicechat] Compatibility version 20
-[19:42:13] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[19:42:13] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
-[19:42:13] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.7.2-SNAPSHOT
-[19:42:13] [Server thread/INFO]: [Maintenance] Enabling Maintenance v4.3.0
-[19:42:14] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.30.15
-[19:42:14] [Server thread/INFO]: [InvSee++] Detected server software: Paper version 1.21.11
-[19:42:14] [Server thread/INFO]: [PurpurExtras] Enabling PurpurExtras v1.37.0
-[19:42:14] [Server thread/INFO]: [org.purpurmc.purpurextras.reflections.Reflections] Reflections took 52 ms to scan 1 urls, producing 3 keys and 69 values
-[19:42:14] [Server thread/INFO]: [ClickShop] Enabling ClickShop v1.0.2
-[19:42:14] [Server thread/INFO]: [ClickShop] ClickShop activated.
-[19:42:14] [Server thread/INFO]: [voicechat_interaction] Enabling voicechat_interaction v1.0.3
-[19:42:14] [Server thread/INFO]: [voicechat_interaction] Configuration loaded successfully
-[19:42:14] [Server thread/INFO]: [voicechat_interaction] Successfully registered voicechat_interaction event bridge
-[19:42:14] [Server thread/INFO]: [voicechat_interaction] Commands registered successfully
-[19:42:14] [Server thread/INFO]: [voicechat_interaction] VoiceChat Interaction plugin successfully enabled!
-[19:42:14] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[19:42:14] [Server thread/INFO]: [SmartBackpacks] Enabling SmartBackpacks v0.1
-[19:42:14] [Server thread/WARN]: [SmartBackpacks] Could not save messages.yml to plugins/SmartBackpacks/messages.yml because messages.yml already exists.
-[19:42:14] [Server thread/INFO]:             ===============================
-[19:42:14] [Server thread/INFO]:                            
-[19:42:14] [Server thread/INFO]:                  SmartBackpacks [0.1]
-[19:42:14] [Server thread/INFO]:  Customizable backpacks with permission-based access.
-[19:42:14] [Server thread/INFO]:                   Loaded: 2 backpacks
-[19:42:14] [Server thread/INFO]:                            
-[19:42:14] [Server thread/INFO]:             ===============================
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] Enabling AdvancedServerList v5.7.2
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] Registering internal Placeholders...
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] Starting AdvancedServerList v5.7.2...
-[19:42:14] [Server thread/INFO]: [AdvancedServerList]      __      _______ ___
-[19:42:14] [Server thread/INFO]: [AdvancedServerList]     /\ \    / ____|_| | |
-[19:42:14] [Server thread/INFO]: [AdvancedServerList]    /  \ \  | (_(___ | | |
-[19:42:14] [Server thread/INFO]: [AdvancedServerList]   / /\ \ \  \___ \ \| | |
-[19:42:14] [Server thread/INFO]: [AdvancedServerList]  / ____ \ \ ____) | | |_|____
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] /_/_/  \_\_\_____/_/|______|_|
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] 
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] Platform: Purpur (ID: purpurmc:purpur, Version: 1.21.11, Build: 2559)
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] 
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] [-] Loading profiles...
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully loaded 1 profile(s)!
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] [-] Loading local images as Favicons...
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded 0 local Favicon(s).
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded Command /advancedserverlist!
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded 1 players into cache!
-[19:42:14] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList is ready!
-[19:42:14] [AdvancedServerList-UpdateThread/INFO]: [AdvancedServerList] [-] Looking for an update...
-[19:42:14] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.21
-[19:42:15] [Server thread/INFO]: [SuperVanish] Hooked into PaperSpigot for server list ping support
-[19:42:15] [Server thread/INFO]: [ItemsAdder] Enabling ItemsAdder v4.0.15
-[19:42:15] [Server thread/ERROR]: Error occurred while enabling ItemsAdder v4.0.15 (Is it up to date?)
-java.lang.NullPointerException: Cannot invoke "beer.devs.fastnbt.nms.Version.ordinal()" because the return value of "beer.devs.fastnbt.nms.Version.get()" is null
-	at ItemsAdder_4.0.15.jar//itemsadder.m.xx.qL(SourceFile:59) ~[?:?]
-	at ItemsAdder_4.0.15.jar//itemsadder.m.xx.qM(SourceFile:85) ~[?:?]
-	at ItemsAdder_4.0.15.jar//dev.lone.itemsadder.Main.onEnable(SourceFile:183) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[purpur-api-1.21.11-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[purpur-api-1.21.11-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:653) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:610) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:640) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:408) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1273) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:392) ~[purpur-1.21.11.jar:1.21.11-2559-33b2924]
-	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[19:42:15] [Server thread/INFO]: [ItemsAdder] Disabling ItemsAdder v4.0.15
-[19:42:15] [Server thread/INFO]: [emotecraft] Enabling emotecraft v3.2.0-b.build.142
-[19:42:15] [Server thread/INFO]: [TAB] Enabling TAB v5.5.0
-[19:42:15] [ForkJoinPool.commonPool-worker-1/INFO]: [AdvancedServerList] [✓] You are running the latest version!
-[19:42:15] [Server thread/INFO]: [TAB] Enabled in 304ms
-[19:42:15] [Server thread/INFO]: [SmartMoving] Enabling SmartMoving vEOL
-[19:42:16] [Server thread/INFO]: §x§9§b§a§8§3§2[§x§9§b§a§8§3§a §x§9§b§a§8§4§2S§x§9§b§a§8§4§am§x§9§b§a§8§5§2a§x§9§b§a§8§5§ar§x§9§b§a§8§6§2t§x§9§b§a§8§6§aM§x§9§b§a§8§7§2o§x§9§b§a§8§7§av§x§9§b§a§8§8§2i§x§9§b§a§8§8§an§x§9§b§a§8§9§2g§x§9§b§a§8§9§a §x§9§b§a§8§a§2] §aEnable§f!
-[19:42:16] [Server thread/INFO]: [spark] Starting background profiler...
-[19:42:17] [Server thread/INFO]: Running delayed init tasks
-[19:42:17] [Craft Scheduler Thread - 4 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:42:17] [Server thread/INFO]: Done (52.513s)! For help, type "help"
-[19:42:17] [Server thread/INFO]: [voicechat] Loading plugins
-[19:42:17] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
-[19:42:17] [Server thread/INFO]: [voicechat] Initializing plugins
-[19:42:17] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
-[19:42:17] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_interaction'
-[19:42:17] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'wireless-sick.gl.at.ply.gg'
-[19:42:17] [Server thread/INFO]: [voicechat_interaction] Voice chat server integration established
-[19:42:17] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 32697
-[19:42:17] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[19:42:22] [pool-37-thread-4/INFO]: [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 51, threads = 4, took 10.45s)
-[19:44:06] [Server thread/INFO]: Stopping the server
-[19:44:06] [Server thread/INFO]: Stopping server
-[19:44:06] [Server thread/INFO]: [SmartMoving] Disabling SmartMoving vEOL
-[19:44:06] [Server thread/INFO]: §x§9§b§a§8§3§2[§x§9§b§a§8§3§a §x§9§b§a§8§4§2S§x§9§b§a§8§4§am§x§9§b§a§8§5§2a§x§9§b§a§8§5§ar§x§9§b§a§8§6§2t§x§9§b§a§8§6§aM§x§9§b§a§8§7§2o§x§9§b§a§8§7§av§x§9§b§a§8§8§2i§x§9§b§a§8§8§an§x§9§b§a§8§9§2g§x§9§b§a§8§9§a §x§9§b§a§8§a§2] §cDisable§f!
-[19:44:06] [Server thread/INFO]: [TAB] Disabling TAB v5.5.0
-[19:44:06] [Server thread/INFO]: [TAB] Disabled in 0ms
-[19:44:06] [Server thread/INFO]: [emotecraft] Disabling emotecraft v3.2.0-b.build.142
-[19:44:06] [Server thread/WARN]: [Emotecraft] Emotecraft does not support disabling by PlugMan and similar plugins
-[19:44:06] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.21
-[19:44:06] [Server thread/INFO]: [AdvancedServerList] Disabling AdvancedServerList v5.7.2
-[19:44:06] [Server thread/INFO]: [AdvancedServerList] [-] Saving playercache.json file...
-[19:44:06] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully saved playercache.json file.
-[19:44:06] [Server thread/INFO]: [AdvancedServerList] [-] Disabling Update Checker...
-[19:44:06] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList disabled!
-[19:44:06] [Server thread/INFO]: [nAntiBot] Disabling nAntiBot v2.0.5
-[19:44:06] [Server thread/INFO]: [nAntiBot] Successful plugin core shutdown (took 0.00s)
-[19:44:06] [Server thread/INFO]: [nAntiBot] Disconnecting from remote server...
-[19:44:08] [Server thread/INFO]: [nLogin] Disabling nLogin v2.0.11
-[19:44:08] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
-[19:44:08] [Server thread/INFO]: [SmartBackpacks] Disabling SmartBackpacks v0.1
-[19:44:08] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
-[19:44:08] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.3
-[19:44:08] [Server thread/INFO]: [voicechat_interaction] Disabling voicechat_interaction v1.0.3
-[19:44:08] [Server thread/INFO]: [voicechat_interaction] Successfully unregistered voicechat_interaction event bridge
-[19:44:08] [Server thread/INFO]: [ClickShop] Disabling ClickShop v1.0.2
-[19:44:08] [Server thread/INFO]: [ClickShop] ClickShop deactivated.
-[19:44:08] [Server thread/INFO]: [PurpurExtras] Disabling PurpurExtras v1.37.0
-[19:44:08] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.30.15
-[19:44:08] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
-[19:44:08] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.3.0
-[19:44:08] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.7.2-SNAPSHOT
-[19:44:08] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.11
-[19:44:08] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.17
-[19:44:08] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:44:08] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:44:08] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:44:08] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
-[19:44:08] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.7.2-SNAPSHOT
-[19:44:08] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[19:44:08] [Server thread/INFO]: Saving players
-[19:44:08] [Server thread/INFO]: Saving worlds
-[19:44:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[19:44:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[19:44:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[19:44:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[19:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:44:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:44:08] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[19:44:08] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[19:44:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[19:44:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Caused by: java.lang.ClassNotFoundException: net.minecraft.resources.Identifier
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperPluginClassLoader.loadClass(PaperPluginClassLoader.java:146) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at io.papermc.paper.plugin.entrypoint.classloader.PaperPluginClassLoader.loadClass(PaperPluginClassLoader.java:107) ~[purpur-1.21.10.jar:1.21.10-2535-0a2dc04]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[?:?]
+	... 10 more
+[19:54:26] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.5.0
+[19:54:26] [Server thread/INFO]: [SmartMoving] Loading server plugin SmartMoving vEOL
+[19:54:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:54:26] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[19:54:26] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.17
+[19:54:26] [Server thread/INFO]:         __    
+[19:54:26] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.17
+[19:54:26] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[19:54:26] [Server thread/INFO]: 
+[19:54:26] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:54:27] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:54:27] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:54:27] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1170ms)
+[19:54:27] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR4.0.9
+[19:54:27] [Server thread/WARN]: [ModelEngine] [S] Unable to read the model ID cache file. If the file is missing, ignore this warning.
+[19:54:27] [Server thread/WARN]: [ModelEngine] [S] Unable to activate MineSkin skin generation: Empty API Key
+[19:54:27] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Steve
+[19:54:27] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Alex
+[19:54:27] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] Registered default skin: Alex
+[19:54:27] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] Registered default skin: Steve
+[19:54:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.3
+[19:54:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.10.
+[19:54:28] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:54:28] [Server thread/INFO]: [nLogin] Enabling nLogin v2.0.11
+[19:54:28] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.11s)
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.3
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 989bf18
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:54:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:54:28] [Server thread/INFO]: [nLogin]           __             _       
+[19:54:28] [Server thread/INFO]: [nLogin]   _ __   / /  ___   __ _(_)_ __  
+[19:54:28] [Server thread/INFO]: [nLogin]  | '_ \ / /  / _ \ / _` | | '_ \ 
+[19:54:28] [Server thread/INFO]: [nLogin]  | | | / /__| (_) | (_| | | | | |
+[19:54:28] [Server thread/INFO]: [nLogin]  |_| |_\____/\___/ \__, |_|_| |_|
+[19:54:28] [Server thread/INFO]: [nLogin]                   |___/            
+[19:54:28] [Server thread/INFO]: [nLogin]  By: www.nickuc.com - V 2.0.11 DEV
+[19:54:28] [Server thread/INFO]: [nLogin]  
+[19:54:31] [Server thread/INFO]: [nAntiBot] Enabling nAntiBot v2.0.5
+[19:54:31] [Server thread/INFO]: [nAntiBot] Successful plugin core start (took 0.14s)
+[19:54:31] [Server thread/INFO]: [nAntiBot]           _         _   _   ___       _   
+[19:54:31] [Server thread/INFO]: [nAntiBot]   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+[19:54:31] [Server thread/INFO]: [nAntiBot]  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+[19:54:31] [Server thread/INFO]: [nAntiBot]  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+[19:54:31] [Server thread/INFO]: [nAntiBot]  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+[19:54:31] [Server thread/INFO]: [nAntiBot]                                          
+[19:54:31] [Server thread/INFO]: [nAntiBot]  By: www.nickuc.com - V 2.0.5
+[19:54:31] [Server thread/INFO]: [nAntiBot] 
+[19:54:31] [Folia Async Scheduler Thread #2/INFO]: [nAntiBot] Connecting to the remote server antibot.nickuc.com...
+[19:54:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:54:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:54:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:54:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:54:31] [Server thread/INFO]: Preparing level "world"
+[19:54:32] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[19:54:32] [Server thread/INFO]: Preparing spawn area: 100%
+[19:54:32] [Server thread/INFO]: Prepared spawn area in 2 ms
+[19:54:32] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[19:54:32] [Server thread/INFO]: Prepared spawn area in 0 ms
+[19:54:32] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[19:54:32] [Server thread/INFO]: Prepared spawn area in 0 ms
+[19:54:32] [Server thread/INFO]: Done preparing level "world" (0.614s)
+[19:54:32] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.7.2-SNAPSHOT
+[19:54:32] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.9-1.21.10 (773)
+[19:54:32] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: ViaVersion
+[19:54:32] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.11.1-de409cac
+[19:54:32] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.10)...
+[19:54:32] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[19:54:35] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[19:54:36] [Server thread/INFO]: [MythicMobs] Loading Items...
+[19:54:36] [Server thread/INFO]: [MythicMobs] File ExampleItems.yml not found! Creating a new one...
+[19:54:36] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[19:54:36] [Server thread/INFO]: [MythicMobs] All items loaded after 42ms!
+[19:54:36] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[19:54:36] [Server thread/INFO]: [MythicMobs] File ExampleSkills.yml not found! Creating a new one...
+[19:54:36] [Server thread/INFO]: [MythicMobs] File VanillaMobs.yml not found! Creating a new one...
+[19:54:36] [Server thread/INFO]: [MythicMobs] File ExampleMobs.yml not found! Creating a new one...
+[19:54:36] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[19:54:36] [Server thread/INFO]: [MythicMobs] File ExampleDropTables.yml not found! Creating a new one...
+[19:54:36] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[19:54:36] [Server thread/INFO]: [MythicMobs] File ExampleRandomSpawns.yml not found! Creating a new one...
+[19:54:36] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[19:54:36] [Server thread/INFO]: [MythicMobs] Spawners folder not found! Creating...
+[19:54:36] [Server thread/INFO]: [MythicMobs] Second passes loaded after 16ms!
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[19:54:36] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[19:54:36] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[19:54:36] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.11.1 ( build de409cac ) has been successfully loaded!
+[19:54:38] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[19:54:38] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[19:54:38] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.11
+[19:54:38] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.10-R0.1
+[19:54:38] [Server thread/INFO]: [voicechat] Compatibility version 20
+[19:54:38] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[19:54:38] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[19:54:38] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.7.2-SNAPSHOT
+[19:54:38] [Server thread/INFO]: [Maintenance] Enabling Maintenance v4.3.0
+[19:54:38] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.30.15
+[19:54:38] [Server thread/INFO]: [InvSee++] Detected server software: Paper version 1.21.10
+[19:54:38] [Server thread/INFO]: [PurpurExtras] Enabling PurpurExtras v1.37.0
+[19:54:38] [Server thread/INFO]: [org.purpurmc.purpurextras.reflections.Reflections] Reflections took 49 ms to scan 1 urls, producing 3 keys and 69 values
+[19:54:38] [Server thread/INFO]: [ClickShop] Enabling ClickShop v1.0.2
+[19:54:38] [Server thread/INFO]: [ClickShop] ClickShop activated.
+[19:54:38] [Server thread/INFO]: [voicechat_interaction] Enabling voicechat_interaction v1.0.3
+[19:54:38] [Server thread/INFO]: [voicechat_interaction] Configuration loaded successfully
+[19:54:38] [Server thread/INFO]: [voicechat_interaction] Successfully registered voicechat_interaction event bridge
+[19:54:38] [Server thread/INFO]: [voicechat_interaction] Commands registered successfully
+[19:54:38] [Server thread/INFO]: [voicechat_interaction] VoiceChat Interaction plugin successfully enabled!
+[19:54:38] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[19:54:38] [Server thread/INFO]: [SmartBackpacks] Enabling SmartBackpacks v0.1
+[19:54:38] [Server thread/WARN]: [SmartBackpacks] Could not save messages.yml to plugins/SmartBackpacks/messages.yml because messages.yml already exists.
+[19:54:38] [Server thread/INFO]:             ===============================
+[19:54:38] [Server thread/INFO]:                            
+[19:54:38] [Server thread/INFO]:                  SmartBackpacks [0.1]
+[19:54:38] [Server thread/INFO]:  Customizable backpacks with permission-based access.
+[19:54:38] [Server thread/INFO]:                   Loaded: 2 backpacks
+[19:54:38] [Server thread/INFO]:                            
+[19:54:38] [Server thread/INFO]:             ===============================
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] Enabling AdvancedServerList v5.7.2
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] Registering internal Placeholders...
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] Starting AdvancedServerList v5.7.2...
+[19:54:38] [Server thread/INFO]: [AdvancedServerList]      __      _______ ___
+[19:54:38] [Server thread/INFO]: [AdvancedServerList]     /\ \    / ____|_| | |
+[19:54:38] [Server thread/INFO]: [AdvancedServerList]    /  \ \  | (_(___ | | |
+[19:54:38] [Server thread/INFO]: [AdvancedServerList]   / /\ \ \  \___ \ \| | |
+[19:54:38] [Server thread/INFO]: [AdvancedServerList]  / ____ \ \ ____) | | |_|____
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] /_/_/  \_\_\_____/_/|______|_|
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] 
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] Platform: Purpur (ID: purpurmc:purpur, Version: 1.21.10, Build: 2535)
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] 
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] [-] Loading profiles...
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully loaded 1 profile(s)!
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] [-] Loading local images as Favicons...
+[19:54:38] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded 0 local Favicon(s).
+[19:54:39] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded Command /advancedserverlist!
+[19:54:39] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded 1 players into cache!
+[19:54:39] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList is ready!
+[19:54:39] [AdvancedServerList-UpdateThread/INFO]: [AdvancedServerList] [-] Looking for an update...
+[19:54:39] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.21
+[19:54:39] [Server thread/INFO]: [SuperVanish] Hooked into PaperSpigot for server list ping support
+[19:54:39] [Server thread/INFO]: [ItemsAdder] Enabling ItemsAdder v4.0.15
+[19:54:39] [ForkJoinPool.commonPool-worker-2/INFO]: [AdvancedServerList] [✓] You are running the latest version!
+[19:54:39] [Server thread/WARN]: ItemsAdder) Using default server address: . Consider setting it in the `config.yml`
+[19:54:39] [Server thread/WARN]: ItemsAdder) Using default server port: 25565. Consider setting it in the `config.yml`
+[19:54:39] [Server thread/INFO]: ItemsAdder) 
+                                                   ItemsAdder 4.0.15
+  ___  ___        __        __   __   ___  __      ProtocolLib 5.4.0
+|  |  |__   |\/| /__`  /\  |  \ |  \ |__  |__)     Purpur 1.21.10-2535-0a2dc04 (MC: 1.21.10)
+|  |  |___  |  | .__/ /--\ |__/ |__/ |___ |  \     Build Date: 2025-11-07_18.11.08
+                                                   Java Version: 25.0.1
+                                                   OS: Linux 6.8.0-1030-azure                                               
+[19:54:39] [Server thread/INFO]: [ItemsAdder] Loading GlowingEntities API
+[19:54:39] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Found server version 1.21.10
+[19:54:39] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Loaded transparent mappings.
+[19:54:39] [Server thread/WARN]: ItemsAdder) 
+[19:54:39] [Server thread/WARN]: ItemsAdder) ViaVersion detected.
+[19:54:39] [Server thread/WARN]: ItemsAdder) Joining via different game versions can cause issues and some are not fixable due to game limitations.
+[19:54:39] [Server thread/WARN]: ItemsAdder) Make sure that you are aware of these limitations before reporting issues.
+[19:54:39] [Server thread/WARN]: ItemsAdder) Info: https://a.devs.beer/ia-via-load
+[19:54:39] [Server thread/WARN]: ItemsAdder) 
+[19:54:39] [Server thread/INFO]: [emotecraft] Enabling emotecraft v3.2.0-b.build.142
+[19:54:39] [Server thread/INFO]: [TAB] Enabling TAB v5.5.0
+[19:54:39] [Server thread/INFO]: [TAB] Enabled in 250ms
+[19:54:39] [Server thread/INFO]: [SmartMoving] Enabling SmartMoving vEOL
+[19:54:40] [Server thread/INFO]: §x§9§b§a§8§3§2[§x§9§b§a§8§3§a §x§9§b§a§8§4§2S§x§9§b§a§8§4§am§x§9§b§a§8§5§2a§x§9§b§a§8§5§ar§x§9§b§a§8§6§2t§x§9§b§a§8§6§aM§x§9§b§a§8§7§2o§x§9§b§a§8§7§av§x§9§b§a§8§8§2i§x§9§b§a§8§8§an§x§9§b§a§8§9§2g§x§9§b§a§8§9§a §x§9§b§a§8§a§2] §aEnable§f!
+[19:54:40] [Server thread/INFO]: [spark] Starting background profiler...
+[19:54:40] [Server thread/INFO]: Running delayed init tasks
+[19:54:40] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] 
+[19:54:40] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] [Importing models]
+[19:54:40] [ForkJoinPool.commonPool-worker-2/WARN]: [ModelEngine] [A] Unable to read the model ID cache file. If the file is missing, ignore this warning.
+[19:54:40] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:54:40] [Server thread/INFO]: Done (42.378s)! For help, type "help"
+[19:54:40] [pool-58-thread-1/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.20.6' (models.zip) ...
+[19:54:40] [pool-57-thread-1/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.10' (models.zip) ...
+[19:54:40] [pool-57-thread-2/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.10' (items.zip) ...
+[19:54:40] [pool-56-thread-1/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.4' (models.zip) ...
+[19:54:40] [pool-56-thread-2/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.4' (items.zip) ...
+[19:54:40] [pool-57-thread-3/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.10' (blockstates.zip) ...
+[19:54:40] [pool-56-thread-4/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.4' (assets-list.txt) ...
+[19:54:40] [pool-56-thread-3/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.4' (blockstates.zip) ...
+[19:54:40] [pool-58-thread-3/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.20.6' (blockstates.zip) ...
+[19:54:40] [pool-58-thread-4/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.20.6' (assets-list.txt) ...
+[19:54:40] [pool-59-thread-1/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.6' (models.zip) ...
+[19:54:40] [pool-59-thread-2/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.6' (items.zip) ...
+[19:54:40] [pool-59-thread-3/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.6' (blockstates.zip) ...
+[19:54:40] [pool-59-thread-4/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.6' (assets-list.txt) ...
+[19:54:40] [pool-61-thread-1/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.8' (models.zip) ...
+[19:54:40] [pool-61-thread-2/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.8' (items.zip) ...
+[19:54:40] [pool-61-thread-3/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.8' (blockstates.zip) ...
+[19:54:40] [pool-61-thread-4/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.8' (assets-list.txt) ...
+[19:54:40] [pool-60-thread-2/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.7' (items.zip) ...
+[19:54:40] [pool-60-thread-3/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.7' (blockstates.zip) ...
+[19:54:40] [pool-57-thread-4/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.10' (assets-list.txt) ...
+[19:54:40] [pool-60-thread-1/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.7' (models.zip) ...
+[19:54:40] [pool-60-thread-4/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.7' (assets-list.txt) ...
+[19:54:40] [pool-62-thread-1/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.5' (models.zip) ...
+[19:54:40] [pool-31-thread-1/INFO]: [ModelEngine] [A] 
+[19:54:40] [pool-31-thread-1/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
+[19:54:40] [Craft Scheduler Thread - 7 - ItemsAdder/INFO]: ItemsAdder) [License] Spigot product licensed to: WendigoXDZ (2342655)
+[19:54:41] [Server thread/INFO]: [voicechat] Loading plugins
+[19:54:41] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[19:54:41] [Server thread/INFO]: [voicechat] Initializing plugins
+[19:54:41] [pool-62-thread-3/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.5' (blockstates.zip) ...
+[19:54:41] [pool-62-thread-2/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.5' (items.zip) ...
+[19:54:41] [pool-62-thread-4/INFO]: ItemsAdder) Downloading Vanilla Assets of '1.21.5' (assets-list.txt) ...
+[19:54:41] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[19:54:41] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_interaction'
+[19:54:41] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19:54:41] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'wireless-sick.gl.at.ply.gg'
+[19:54:41] [Server thread/INFO]: [voicechat_interaction] Voice chat server integration established
+[19:54:41] [pool-60-thread-4/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.7' (assets-list.txt)
+[19:54:41] [pool-58-thread-4/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.20.6' (assets-list.txt)
+[19:54:41] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 32697
+[19:54:41] [pool-57-thread-4/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.10' (assets-list.txt)
+[19:54:41] [pool-59-thread-4/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.6' (assets-list.txt)
+[19:54:41] [pool-61-thread-4/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.8' (assets-list.txt)
+[19:54:41] [pool-62-thread-4/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.5' (assets-list.txt)
+[19:54:41] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[19:54:41] [pool-31-thread-4/INFO]: [ModelEngine] [A] 
+[19:54:41] [pool-31-thread-4/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:54:41] [pool-31-thread-4/INFO]: [ModelEngine] [A] Generator Profiled:
+[19:54:41] [pool-31-thread-4/INFO]: [ModelEngine] [A]  - Import Phase: 156.2ms
+[19:54:41] [pool-31-thread-4/INFO]: [ModelEngine] [A]  - Assets Phase: 207.3ms
+[19:54:41] [pool-31-thread-4/INFO]: [ModelEngine] [A]  - Zipping Phase: 325.9ms
+[19:54:41] [pool-56-thread-4/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.4' (assets-list.txt)
+[19:54:42] [pool-59-thread-3/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.6' (blockstates.zip)
+[19:54:42] [pool-57-thread-3/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.10' (blockstates.zip)
+[19:54:42] [pool-62-thread-3/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.5' (blockstates.zip)
+[19:54:42] [pool-60-thread-3/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.7' (blockstates.zip)
+[19:54:42] [pool-61-thread-3/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.8' (blockstates.zip)
+[19:54:42] [pool-58-thread-3/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.20.6' (blockstates.zip)
+[19:54:42] [pool-56-thread-3/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.4' (blockstates.zip)
+[19:54:42] [pool-57-thread-2/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.10' (items.zip)
+[19:54:42] [pool-60-thread-2/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.7' (items.zip)
+[19:54:42] [pool-62-thread-2/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.5' (items.zip)
+[19:54:42] [pool-56-thread-2/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.4' (items.zip)
+[19:54:42] [pool-59-thread-2/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.6' (items.zip)
+[19:54:42] [pool-61-thread-2/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.8' (items.zip)
+[19:54:44] [pool-57-thread-1/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.10' (models.zip)
+[19:54:44] [pool-61-thread-1/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.8' (models.zip)
+[19:54:44] [pool-56-thread-1/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.4' (models.zip)
+[19:54:44] [pool-62-thread-1/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.5' (models.zip)
+[19:54:44] [pool-58-thread-1/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.20.6' (models.zip)
+[19:54:44] [pool-59-thread-1/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.6' (models.zip)
+[19:54:44] [pool-60-thread-1/INFO]: ItemsAdder) Downloaded Vanilla Assets of '1.21.7' (models.zip)
+[19:54:45] [Server thread/WARN]: ItemsAdder)  
+[19:54:45] [Server thread/WARN]: ItemsAdder) Downloading FFmpeg
+[19:54:45] [Server thread/WARN]: ItemsAdder) (It will be downloaded only this time)
+[19:54:45] [Server thread/WARN]: ItemsAdder) This can take some time, depending on your internet connection.
+[19:54:45] [Server thread/WARN]: ItemsAdder) Set 'download_ffmpeg' to 'false' in 'config.yml' to skip this step.
+[19:54:45] [Server thread/WARN]: ItemsAdder) This program is used to compress and handle .ogg audio files.
+[19:54:45] [Server thread/WARN]: ItemsAdder)  
+[19:54:45] [Server thread/WARN]: ItemsAdder) NOTE: If the automatic download fails you can manually download and extract it into this folder and restart.
+[19:54:45] [Server thread/WARN]: ItemsAdder) Folder: /workspaces/Server-de-Minecraft/server/plugins/ItemsAdder/storage/cache/ffmpeg/linux
+[19:54:45] [Server thread/WARN]: ItemsAdder) Download: https://github.com/ItemsAdder/ffmpeg-assets/releases/download/2025-05-19/ffmpeg_linux.zip
+[19:54:45] [Server thread/WARN]: ItemsAdder)  
+[19:54:45] [Server thread/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 0%
+[19:54:45] [Server thread/WARN]: ItemsAdder) [Libs] FFmpeg is not available.
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] Extracting default files...
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/de.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/en.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/es.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/fr.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/it.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/pt.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/ru.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/tr.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/dictionaries/zh_cn.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/guis.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/huds/hud_cooldown.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/icons.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/lang_overwrite/dyed.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/configs/lang_overwrite/merchant.yml
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/font/gui.json
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/gui/anvil_repair.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/gui/blank_menu.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/gui/cooking.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/gui/crafting.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/gui/no_craft_permission_notification.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/gui/no_recipe.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/gui/smithing.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/0.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/1.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/10.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/11.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/12.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/13.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/14.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/15.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/16.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/17.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/18.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/19.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/2.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/20.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/3.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/4.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/5.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/6.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/7.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/8.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/hud/small_cooldown_bar/9.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/icons/icon_arrow_chest.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/icons/icon_back_orange.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/icons/icon_cancel.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/icons/icon_left_blue.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/icons/icon_next_orange.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/icons/icon_right_blue.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/assets/_iainternal/textures/icons/icon_search.png
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] - Extracted contents/_iainternal/resourcepack/pack.mcmeta
+[19:54:46] [Server thread/INFO]: ItemsAdder) [Pack] Extracted 51 default files.
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 10%
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 20%
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 30%
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 40%
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 50%
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 60%
+[19:54:46] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder) [Content] Loaded 7 items
+[19:54:46] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder) Used Blocks IDs:
+[19:54:46] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder)  - REAL 0/188
+[19:54:46] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder)  - REAL_NOTE 0/750
+[19:54:46] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder)  - REAL_TRANSPARENT 0/63
+[19:54:46] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder) Used Font Images: 27/6608
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 70%
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 80%
+[19:54:46] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 90%
+[19:54:47] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] Downloading FFmpeg: 100%
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder) [Content] Loaded 1 categories
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: ItemsAdder) [Content] Contents loaded successfully!
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]:  
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]:  
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: Welcome! Thanks for buying ItemsAdder! <3
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: Before using the plugin you have to finish installation (it's easy).
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: Resourcepack hosting: https://a.devs.beer/ia-host-pack
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]: Have fun! :D
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]:  
+[19:54:47] [Craft Scheduler Thread - 8 - ItemsAdder/INFO]:  
+[19:54:47] [Server thread/INFO]: [Mythic] Reloading plugin...
+[19:54:47] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[19:54:47] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[19:54:47] [pool-36-thread-3/INFO]: [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 51, threads = 4, took 16.01s)
+[19:54:47] [Server thread/INFO]: [MythicMobs] Loading Items...
+[19:54:47] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[19:54:47] [Server thread/INFO]: [MythicMobs] All items loaded after 7ms!
+[19:54:47] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[19:54:47] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[19:54:47] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[19:54:47] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[19:54:47] [Server thread/INFO]: [MythicMobs] Second passes loaded after 2ms!
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[19:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[19:54:47] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[19:54:47] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[19:54:48] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] FFmpeg executable found: /workspaces/Server-de-Minecraft/server/plugins/ItemsAdder/storage/cache/ffmpeg/linux/ffmpeg
