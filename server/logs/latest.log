@@ -363,3 +363,72 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [19:32:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 749f236f-1860-41f1-aece-ee7b00d03f77
 [19:32:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player The_GameplayerZ (749f236f-1860-41f1-aece-ee7b00d03f77) successfully connected to voice chat
 [19:32:37] [Server thread/INFO]: The_GameplayerZ issued server command: /plugins
+[19:38:50] [Server thread/INFO]: Stopping the server
+[19:38:50] [Server thread/INFO]: Stopping server
+[19:38:50] [Server thread/INFO]: [SmartMoving] Disabling SmartMoving vEOL
+[19:38:50] [Server thread/INFO]: §x§9§b§a§8§3§2[§x§9§b§a§8§3§a §x§9§b§a§8§4§2S§x§9§b§a§8§4§am§x§9§b§a§8§5§2a§x§9§b§a§8§5§ar§x§9§b§a§8§6§2t§x§9§b§a§8§6§aM§x§9§b§a§8§7§2o§x§9§b§a§8§7§av§x§9§b§a§8§8§2i§x§9§b§a§8§8§an§x§9§b§a§8§9§2g§x§9§b§a§8§9§a §x§9§b§a§8§a§2] §cDisable§f!
+[19:38:50] [Server thread/INFO]: [TAB] Disabling TAB v5.5.0
+[19:38:50] [Server thread/INFO]: [TAB] Disabled in 1ms
+[19:38:50] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.21
+[19:38:50] [Server thread/INFO]: [AdvancedServerList] Disabling AdvancedServerList v5.7.2
+[19:38:50] [Server thread/INFO]: [AdvancedServerList] [-] Saving playercache.json file...
+[19:38:50] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully saved playercache.json file.
+[19:38:50] [Server thread/INFO]: [AdvancedServerList] [-] Disabling Update Checker...
+[19:38:50] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList disabled!
+[19:38:50] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
+[19:38:50] [Server thread/INFO]: [nAntiBot] Disabling nAntiBot v2.0.5
+[19:38:50] [Server thread/INFO]: [nAntiBot] Successful plugin core shutdown (took 0.00s)
+[19:38:50] [Server thread/INFO]: [nAntiBot] Disconnecting from remote server...
+[19:38:52] [Server thread/INFO]: [nLogin] Disabling nLogin v2.0.11
+[19:38:52] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[19:38:52] [Server thread/INFO]: [SmartBackpacks] Disabling SmartBackpacks v0.1
+[19:38:52] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[19:38:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.3
+[19:38:52] [Server thread/INFO]: [voicechat_interaction] Disabling voicechat_interaction v1.0.3
+[19:38:52] [Server thread/INFO]: [voicechat_interaction] Successfully unregistered voicechat_interaction event bridge
+[19:38:52] [Server thread/INFO]: [ClickShop] Disabling ClickShop v1.0.2
+[19:38:52] [Server thread/INFO]: [ClickShop] ClickShop deactivated.
+[19:38:52] [Server thread/INFO]: [PurpurExtras] Disabling PurpurExtras v1.37.0
+[19:38:52] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.30.15
+[19:38:52] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.3.0
+[19:38:52] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.7.2-SNAPSHOT
+[19:38:52] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.11
+[19:38:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.17
+[19:38:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:38:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:38:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:38:52] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.7.2-SNAPSHOT
+[19:38:52] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:38:52] [Server thread/INFO]: Saving players
+[19:38:52] [Server thread/INFO]: The_GameplayerZ lost connection: Server closed
+[19:38:53] [Server thread/INFO]: The_GameplayerZ left the game
+[19:38:53] [Server thread/INFO]: Saving worlds
+[19:38:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 165 entity chunks, 0 poi chunks in world 'world' in 0.06s
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[19:38:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[19:38:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[19:38:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[19:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:38:53] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[19:38:53] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[19:38:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[19:38:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
