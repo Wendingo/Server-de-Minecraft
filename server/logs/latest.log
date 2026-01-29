@@ -585,3 +585,90 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.resources.Identifier
 [19:54:47] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [19:54:47] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
 [19:54:48] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [Libs] FFmpeg executable found: /workspaces/Server-de-Minecraft/server/plugins/ItemsAdder/storage/cache/ffmpeg/linux/ffmpeg
+[20:01:35] [Server thread/INFO]: Stopping the server
+[20:01:35] [Server thread/INFO]: Stopping server
+[20:01:35] [Server thread/INFO]: [SmartMoving] Disabling SmartMoving vEOL
+[20:01:35] [Server thread/INFO]: §x§9§b§a§8§3§2[§x§9§b§a§8§3§a §x§9§b§a§8§4§2S§x§9§b§a§8§4§am§x§9§b§a§8§5§2a§x§9§b§a§8§5§ar§x§9§b§a§8§6§2t§x§9§b§a§8§6§aM§x§9§b§a§8§7§2o§x§9§b§a§8§7§av§x§9§b§a§8§8§2i§x§9§b§a§8§8§an§x§9§b§a§8§9§2g§x§9§b§a§8§9§a §x§9§b§a§8§a§2] §cDisable§f!
+[20:01:35] [Server thread/INFO]: [TAB] Disabling TAB v5.5.0
+[20:01:35] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:01:35] [Server thread/INFO]: [emotecraft] Disabling emotecraft v3.2.0-b.build.142
+[20:01:35] [Server thread/WARN]: [Emotecraft] Emotecraft does not support disabling by PlugMan and similar plugins
+[20:01:35] [Server thread/INFO]: [ItemsAdder] Disabling ItemsAdder v4.0.15
+[20:01:36] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.21
+[20:01:36] [Server thread/INFO]: [AdvancedServerList] Disabling AdvancedServerList v5.7.2
+[20:01:36] [Server thread/INFO]: [AdvancedServerList] [-] Saving playercache.json file...
+[20:01:36] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully saved playercache.json file.
+[20:01:36] [Server thread/INFO]: [AdvancedServerList] [-] Disabling Update Checker...
+[20:01:36] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList disabled!
+[20:01:36] [Server thread/INFO]: [nAntiBot] Disabling nAntiBot v2.0.5
+[20:01:36] [Server thread/INFO]: [nAntiBot] Successful plugin core shutdown (took 0.00s)
+[20:01:36] [Server thread/INFO]: [nAntiBot] Disconnecting from remote server...
+[20:01:38] [Server thread/INFO]: [nLogin] Disabling nLogin v2.0.11
+[20:01:38] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[20:01:38] [Server thread/INFO]: [SmartBackpacks] Disabling SmartBackpacks v0.1
+[20:01:38] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[20:01:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.3
+[20:01:38] [Server thread/INFO]: [voicechat_interaction] Disabling voicechat_interaction v1.0.3
+[20:01:38] [Server thread/INFO]: [voicechat_interaction] Successfully unregistered voicechat_interaction event bridge
+[20:01:38] [Server thread/INFO]: [ClickShop] Disabling ClickShop v1.0.2
+[20:01:38] [Server thread/INFO]: [ClickShop] ClickShop deactivated.
+[20:01:38] [Server thread/INFO]: [PurpurExtras] Disabling PurpurExtras v1.37.0
+[20:01:38] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.30.15
+[20:01:38] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
+[20:01:38] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.3.0
+[20:01:38] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.7.2-SNAPSHOT
+[20:01:38] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.11
+[20:01:38] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.11.1-de409cac
+[20:01:38] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[20:01:38] [Server thread/INFO]: [MythicMobs] - 
+[20:01:38] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[20:01:38] [Server thread/INFO]: [MythicMobs] - 
+[20:01:38] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[20:01:38] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[20:01:38] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[20:01:38] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[20:01:38] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[20:01:38] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[20:01:38] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[20:01:38] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[20:01:38] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[20:01:38] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[20:01:38] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[20:01:38] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.17
+[20:01:38] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:01:38] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:01:38] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:01:38] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[20:01:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.7.2-SNAPSHOT
+[20:01:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[20:01:38] [Server thread/INFO]: Saving players
+[20:01:38] [Server thread/INFO]: Saving worlds
+[20:01:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[20:01:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[20:01:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[20:01:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[20:01:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:01:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:01:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:01:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:01:38] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[20:01:38] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[20:01:38] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[20:01:38] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
