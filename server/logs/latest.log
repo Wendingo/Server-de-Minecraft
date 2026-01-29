@@ -254,3 +254,129 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.resources.Identifier
 [20:55:37] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.11.1-de409cac
 [20:55:37] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.10)...
 [20:55:37] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[20:55:44] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[20:55:44] [Server thread/INFO]: [MythicMobs] Loading Items...
+[20:55:44] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[20:55:44] [Server thread/INFO]: [MythicMobs] All items loaded after 56ms!
+[20:55:44] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[20:55:45] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[20:55:45] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[20:55:45] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[20:55:45] [Server thread/INFO]: [MythicMobs] Second passes loaded after 41ms!
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[20:55:45] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[20:55:45] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[20:55:45] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.11.1 ( build de409cac ) has been successfully loaded!
+[20:55:47] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[20:55:47] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[20:55:47] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.11
+[20:55:47] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.10-R0.1
+[20:55:47] [Server thread/INFO]: [voicechat] Compatibility version 20
+[20:55:47] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[20:55:47] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[20:55:47] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.7.2-SNAPSHOT
+[20:55:47] [Server thread/INFO]: [Maintenance] Enabling Maintenance v4.3.0
+[20:55:48] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.30.15
+[20:55:48] [Server thread/INFO]: [InvSee++] Detected server software: Paper version 1.21.10
+[20:55:48] [Server thread/INFO]: [PurpurExtras] Enabling PurpurExtras v1.37.0
+[20:55:48] [Server thread/INFO]: [org.purpurmc.purpurextras.reflections.Reflections] Reflections took 61 ms to scan 1 urls, producing 3 keys and 69 values
+[20:55:48] [Server thread/INFO]: [ClickShop] Enabling ClickShop v1.0.2
+[20:55:48] [Server thread/INFO]: [ClickShop] ClickShop activated.
+[20:55:48] [Server thread/INFO]: [voicechat_interaction] Enabling voicechat_interaction v1.0.3
+[20:55:48] [Server thread/INFO]: [voicechat_interaction] Configuration loaded successfully
+[20:55:48] [Server thread/INFO]: [voicechat_interaction] Successfully registered voicechat_interaction event bridge
+[20:55:48] [Server thread/INFO]: [voicechat_interaction] Commands registered successfully
+[20:55:48] [Server thread/INFO]: [voicechat_interaction] VoiceChat Interaction plugin successfully enabled!
+[20:55:48] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[20:55:48] [Server thread/INFO]: [SmartBackpacks] Enabling SmartBackpacks v0.1
+[20:55:48] [Server thread/WARN]: [SmartBackpacks] Could not save messages.yml to plugins/SmartBackpacks/messages.yml because messages.yml already exists.
+[20:55:48] [Server thread/INFO]:             ===============================
+[20:55:48] [Server thread/INFO]:                            
+[20:55:48] [Server thread/INFO]:                  SmartBackpacks [0.1]
+[20:55:48] [Server thread/INFO]:  Customizable backpacks with permission-based access.
+[20:55:48] [Server thread/INFO]:                   Loaded: 2 backpacks
+[20:55:48] [Server thread/INFO]:                            
+[20:55:48] [Server thread/INFO]:             ===============================
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] Enabling AdvancedServerList v5.7.2
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] Registering internal Placeholders...
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] Starting AdvancedServerList v5.7.2...
+[20:55:48] [Server thread/INFO]: [AdvancedServerList]      __      _______ ___
+[20:55:48] [Server thread/INFO]: [AdvancedServerList]     /\ \    / ____|_| | |
+[20:55:48] [Server thread/INFO]: [AdvancedServerList]    /  \ \  | (_(___ | | |
+[20:55:48] [Server thread/INFO]: [AdvancedServerList]   / /\ \ \  \___ \ \| | |
+[20:55:48] [Server thread/INFO]: [AdvancedServerList]  / ____ \ \ ____) | | |_|____
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] /_/_/  \_\_\_____/_/|______|_|
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] 
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] Platform: Purpur (ID: purpurmc:purpur, Version: 1.21.10, Build: 2535)
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] 
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] [-] Loading profiles...
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] [✓] Successfully loaded 1 profile(s)!
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] [-] Loading local images as Favicons...
+[20:55:48] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded 0 local Favicon(s).
+[20:55:49] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded Command /advancedserverlist!
+[20:55:49] [Server thread/INFO]: [AdvancedServerList] [✓] Loaded 1 players into cache!
+[20:55:49] [Server thread/INFO]: [AdvancedServerList] [✓] AdvancedServerList is ready!
+[20:55:49] [AdvancedServerList-UpdateThread/INFO]: [AdvancedServerList] [-] Looking for an update...
+[20:55:49] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.21
+[20:55:49] [Server thread/INFO]: [SuperVanish] Hooked into PaperSpigot for server list ping support
+[20:55:49] [Server thread/INFO]: [ItemsAdder] Enabling ItemsAdder v4.0.15
+[20:55:49] [ForkJoinPool.commonPool-worker-2/INFO]: [AdvancedServerList] [✓] You are running the latest version!
+[20:55:49] [Server thread/WARN]: ItemsAdder) Using default server address: . Consider setting it in the `config.yml`
+[20:55:49] [Server thread/WARN]: ItemsAdder) Using default server port: 25565. Consider setting it in the `config.yml`
+[20:55:49] [Server thread/INFO]: ItemsAdder) 
+                                                   ItemsAdder 4.0.15
+  ___  ___        __        __   __   ___  __      ProtocolLib 5.4.0
+|  |  |__   |\/| /__`  /\  |  \ |  \ |__  |__)     Purpur 1.21.10-2535-0a2dc04 (MC: 1.21.10)
+|  |  |___  |  | .__/ /--\ |__/ |__/ |___ |  \     Build Date: 2025-11-07_18.11.08
+                                                   Java Version: 25.0.1
+                                                   OS: Linux 6.8.0-1030-azure                                               
+[20:55:49] [Server thread/INFO]: [ItemsAdder] Loading GlowingEntities API
+[20:55:49] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Found server version 1.21.10
+[20:55:49] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Loaded transparent mappings.
+[20:55:49] [Server thread/WARN]: ItemsAdder) 
+[20:55:49] [Server thread/WARN]: ItemsAdder) ViaVersion detected.
+[20:55:49] [Server thread/WARN]: ItemsAdder) Joining via different game versions can cause issues and some are not fixable due to game limitations.
+[20:55:49] [Server thread/WARN]: ItemsAdder) Make sure that you are aware of these limitations before reporting issues.
+[20:55:49] [Server thread/WARN]: ItemsAdder) Info: https://a.devs.beer/ia-via-load
+[20:55:49] [Server thread/WARN]: ItemsAdder) 
+[20:55:51] [Server thread/WARN]: ItemsAdder) Failed to add font glypth entry. Vanilla resource 'assets/minecraft/textures/item/spawn_egg.png' doesn't exists. File: /contents/mcemojis/emojis.yml
+[20:55:51] [Server thread/WARN]: ItemsAdder) Failed to add font glypth entry. Vanilla resource 'assets/minecraft/textures/item/spawn_egg_overlay.png' doesn't exists. File: /contents/mcemojis/emojis.yml
+[20:55:54] [Server thread/INFO]: [emotecraft] Enabling emotecraft v3.2.0-b.build.142
+[20:55:54] [Server thread/INFO]: [TAB] Enabling TAB v5.5.0
+[20:55:54] [Server thread/INFO]: [TAB] Enabled in 225ms
+[20:55:54] [Server thread/INFO]: [SmartMoving] Enabling SmartMoving vEOL
+[20:55:55] [Server thread/INFO]: §x§9§b§a§8§3§2[§x§9§b§a§8§3§a §x§9§b§a§8§4§2S§x§9§b§a§8§4§am§x§9§b§a§8§5§2a§x§9§b§a§8§5§ar§x§9§b§a§8§6§2t§x§9§b§a§8§6§aM§x§9§b§a§8§7§2o§x§9§b§a§8§7§av§x§9§b§a§8§8§2i§x§9§b§a§8§8§an§x§9§b§a§8§9§2g§x§9§b§a§8§9§a §x§9§b§a§8§a§2] §aEnable§f!
+[20:55:55] [Server thread/INFO]: [spark] Starting background profiler...
+[20:55:55] [Server thread/INFO]: Running delayed init tasks
+[20:55:55] [Craft Scheduler Thread - 8 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:55:55] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] 
+[20:55:55] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] [Importing models]
+[20:55:55] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
+[20:55:55] [Server thread/INFO]: Done (41.896s)! For help, type "help"
+[20:55:55] [Craft Scheduler Thread - 4 - ItemsAdder/INFO]: ItemsAdder) [License] Spigot product licensed to: WendigoXDZ (2342655)
+[20:55:55] [Server thread/INFO]: [voicechat] Loading plugins
+[20:55:55] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[20:55:55] [Server thread/INFO]: [voicechat] Initializing plugins
+[20:55:55] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[20:55:55] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_interaction'
+[20:55:56] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:55:56] [pool-16-thread-1/INFO]: [ModelEngine] [A] 
+[20:55:56] [pool-16-thread-1/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
+[20:55:56] [Server thread/INFO]: [voicechat_interaction] Voice chat server integration established
+[20:55:56] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'wireless-sick.gl.at.ply.gg'
+[20:55:56] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 32697
+[20:55:56] [Craft Scheduler Thread - 11 - ItemsAdder/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:55:56] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[20:55:56] [pool-16-thread-4/INFO]: [ModelEngine] [A] 
+[20:55:56] [pool-16-thread-4/INFO]: [ModelEngine] [A] Resource pack zipped.
+[20:55:56] [pool-16-thread-4/INFO]: [ModelEngine] [A] Generator Profiled:
+[20:55:56] [pool-16-thread-4/INFO]: [ModelEngine] [A]  - Import Phase: 214.1ms
+[20:55:56] [pool-16-thread-4/INFO]: [ModelEngine] [A]  - Assets Phase: 190.5ms
+[20:55:56] [pool-16-thread-4/INFO]: [ModelEngine] [A]  - Zipping Phase: 208.8ms
